@@ -1,4 +1,4 @@
-![](https://github.com/Jay-Juan/Jay-Juan/blob/main/Banner/Banner.png?raw=true)
+![](https://github.com/Jay-Juan/Jay-Juan/blob/main/Banner/Banner.jpeg?raw=true)
 
 <h1 align="center">Hola👋, Soy Juan Pablo Corvo</h1>
 <h3 align="center">Un apasionado del desarrollo web, las artes marciales, y los juegos. Empecé desarrollo frontend con Jóvenes a Programar y con ése impulso y aprendizaje inicial continúo desarrollándome y aprendiendo</h3>
